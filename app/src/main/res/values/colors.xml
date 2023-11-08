@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gradient">#462B9C</color>
+    <color name="gradient_end">#6495ED</color>
+    <color name="purple">#462B9C</color>
+    <color name="gray">#D7D7E4</color>
+    <color name="zelen">#5FB58A</color>
+    <color name="grey">#6B5E5E</color>
+    <color name="grayin">#1F1F2D</color>
+    <color name="dark_blue">#764BA2</color>
+    <color name="dark_red">#FE5196</color>
+    <color name="darc_gren">#3CBA92</color>
+    <color name="DARC_ORENJ">#F83600</color>
+
+
+    <color name="anine_white_color">#EDEDED</color>
+    <color name="anime_rad_color">#DA0037</color>
+    <color name="anime_black_color">#171717</color>
+    <color name="anime_color">#EDEDED</color>
+    <color name="gray_backgrount">#252525</color>
+</resources>

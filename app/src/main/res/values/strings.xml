@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="no">Notes</string>
+    <string name="first_title">Title</string>
+    <string name="save">Сохранить</string>
+    <string name="last_title">Tyup something</string>
+
+
+</resources>
